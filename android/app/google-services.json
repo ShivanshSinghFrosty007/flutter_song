@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "371654114407",
+    "firebase_url": "https://listen-up-fa893-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "listen-up-fa893",
+    "storage_bucket": "listen-up-fa893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371654114407:android:5010bd94fb07d5fef768c2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_song"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371654114407-ak8g9nc7om6i0rh4diipctnor9qo8eaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsqXe6J00BbYIc0-pi9OUO5PIN15AtWx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371654114407-ak8g9nc7om6i0rh4diipctnor9qo8eaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371654114407:android:883cf30ee6ab8c97f768c2",
+        "android_client_info": {
+          "package_name": "com.example.listenup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371654114407-ak8g9nc7om6i0rh4diipctnor9qo8eaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsqXe6J00BbYIc0-pi9OUO5PIN15AtWx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371654114407-ak8g9nc7om6i0rh4diipctnor9qo8eaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371654114407:android:7c1a7c3d85d87df0f768c2",
+        "android_client_info": {
+          "package_name": "com.example.listenuptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371654114407-ak8g9nc7om6i0rh4diipctnor9qo8eaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsqXe6J00BbYIc0-pi9OUO5PIN15AtWx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371654114407-ak8g9nc7om6i0rh4diipctnor9qo8eaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
